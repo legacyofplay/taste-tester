@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "ricochet",
+  "shared",
+]
+
+[profile.dev]
+debug = 1
